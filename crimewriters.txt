@@ -1,0 +1,400 @@
+writer,born,alive,country
+Megan Abbott,1971,a,US
+Susan Wittig Albert,19??,a,US
+Steve Allen,1921,2000,US
+Jirō Akagawa,1948,a,Japan
+Boris Akunin,1956,a,Russia
+Margery Allingham,1904,1966,UK
+Eric Ambler,1909,1998,UK
+Sarah Andrews,1950,2019,US
+Gosho Aoyama,1963,a,Japan
+Charlotte Armstrong,1905,1969,US
+Jake Arnott,1961,a,UK
+Gianluca Arrighi,1972,a,Italy
+Taku Ashibe,1958,a,Japan
+Isaac Asimov,1920,1992,US
+Pieter Aspe,1953,2021,Belgium
+HC Asterley,1902,1973,UK
+Edward Atiyah,1903,1964,Lebanon
+Edward Attard,1947,a,Malta
+Yukito Ayatsuji,1960,a,Japan
+Desmond Bagley,1923,1983,UK
+HC Bailey,1878,1961,UK
+Deb Baker,1953,a,US
+John Baker,1942,a,UK
+Sharadindu Bandyopadhyay,1899,1970,India
+Ashok Banker,1964,a,India
+John Franklin Bardin,1916,1981,US
+Burl Barer,1947,a,US
+Robert Barnard,1936,2013,UK
+Nevada Barr,1952,a,US
+JJ Barrie,1933,a,Canada
+Earle Basinsky,1923,1963,US
+William Bayer,1939,a,US
+Simon Beckett,1960,a,UK
+George Bellairs,1902,1982,UK
+Robert Leslie Bellem,1902,1968,US
+Edmund Clerihew Bentley,1875,1956,UK
+Earl Derr Biggers,1884,1933,US
+Mark Billingham,1961,a,UK
+Bimal Kar,1921,2003,India
+Robert Bloch,1917,1994,US
+Lawrence Block,1938,a,US
+Deborah Blum,1954,a,US
+Ernest Borneman,1915,1995,Austria
+Ernest Bramah,1868,1942,UK
+Paolo Brera,1949,2019,Italy
+Simon Brett,1945,a,UK
+Fredric Brown,1906,1972,US
+Pat Brown,1955,a,US
+Ken Bruen,1951,a,Ireland
+John Buchan,1875,1940,UK
+John Bude,1901,1957,UK
+James Lee Burke,1936,a,US
+Jan Burke,1953,a,US
+James M Cain,1892,1977,US
+Paul Cain,1902,1966,US
+Bernard Capes,1854,1918,UK
+John Dickson Carr,1906,1977,US
+Jane Casey,1977,a,Ireland
+Rajorshi Chakraborti,1977,a,India
+Chan Ho Kei,1975,a,Hong Kong
+Jessie Chandler,1968,a,US
+Raymond Chandler,1888,1959,US
+Vikram Chandra,1961,a,India
+Kate Charles,1950,a,US
+Leslie Charteris,1907,1993,Singapore
+James Hadley Chase,1906,1985,Sweden
+G K Chesterton,1874,1936,UK
+Lee Child,1954,a,UK
+Chin Shunshin,1924,2015,Taiwan
+Agatha Christie,1890,1976,UK
+Carol Higgins Clark,1956,a,US
+Mary Higgins Clark,1927,2020,US
+Paul Cleave,1974,a,New Zealand
+Brian Cleeve,1921,2003,Ireland
+Ann Cleeves,1954,a,UK
+Harlan Coben,1962,a,US
+Liza Cody,1944,a,UK
+Max Allan Collins,1948,a,US
+Michael Collins,1924,2005,US
+Michael Connelly,1956,a,US
+Sheila Connolly,1950,2020,US
+Robin Cook,1940,a,US
+Patricia Cornwell,1956,a,US
+Anthony Berkeley Cox,1893,1971,UK
+Philip R Craig,1933,2007,US
+Robert Crais,1953,a,US
+John Creasey,1908,1973,UK
+Michael Crichton,1942,2008,US
+Catherine Crier,1954,a,US
+Edmund Crispin,1921,1978,UK
+Freeman Wills Crofts,1879,1957,Ireland
+Amanda Cross,1926,2003,US
+James Crumley,1939,2008,US
+Jordan Dane,1953,a,US
+Diane Mott Davidson,1949,a,US
+Carol Anne Davis,1961,a,UK
+Dorothy Salisbury Davis,1916,2014,US
+Janet Dawson,1949,a,US
+Jeffery Deaver,1950,a,US
+Vicki Delany,1951,a,Canada
+Lester Dent,1904,1959,US
+P T Deutermann,1941,a,US
+William Deverell,1937,a,Canada
+Colin Dexter,1930,2017,UK
+Ranj Dhaliwal,1976,1977,Canada
+Michael Dibdin,1947,2007,UK
+Eric Jerome Dickey,1961,2021,US
+Peter Dickinson,1927,2015,UK
+SS Van Dine,1888,1939,US
+Doris Miles Disney,1907,1976,US
+Stacy Dittrich,1973,a,US
+Stephen Dobyns,1941,a,US
+R B Dominic,1927,1997,US
+Tim Dorsey,1961,a,US
+John E Douglas,1945,a,US
+Arthur Conan Doyle,1859,1930,UK
+John Dunning,1918,1990,Luxembourg
+Umberto Eco,1932,2016,Italy
+Edogawa Rampo,1894,1965,Japan
+Martin Edwards,1955,a,UK
+Åke Edwardson,1953,a,Sweden
+Mark Ellis,1953,a,US
+James Ellroy,1948,a,US
+Sven Elvestad,1884,1934,Norway
+Loren D Estleman,1952,a,US
+Janet Evanovich,1943,a,US
+Stanley Evans,1931,a,Canada
+Diane Fanning,1950,a,US
+Charles Finch,1980,a,US
+Paul Finch,1963,a,UK
+Shamini Flint,1969,a,Malaysia
+R Barri Flowers,1956,a,US
+Pascale Fonteneau,1963,a,France
+Ron Franscell,1957,a,US
+Dick Francis,1920,2010,UK
+Antonia Fraser,1932,a,UK
+Kinky Friedman,1944,a,US
+Gayleen Froese,1972,a,Canada
+Jacques Futrelle,1875,1912,US
+Leighton Gage,1942,2013,US
+Stephen Gallagher,1954,a,UK
+Erle Stanley Gardner,1889,1970,US
+Anthony Gilbert,1889,1973,UK
+Michael Gilbert,1912,2006,UK
+Kenneth Gilesdied,1974,a,UK
+Steven Gore,1970,a,US
+Ed Gorman,1941,2016,US
+Sue Grafton,1940,2017,US
+Caroline Graham,1931,a,UK
+Ann Granger,1939,a,UK
+Anna Katharine Green,1846,1935,US
+John M Green,1953,a,australia
+Graham Greene,1904,1991,Sweden
+Bryan Gruley,1957,a,US
+Robert van Gulik,1910,1967,Netherlands
+Elizabeth Gunn,19??,a,US
+Batya Gur,1947,2005, Israel
+Dashiell Hammett,1894,1961,US
+Cyril Hare,1900,1958,UK
+Kent Harrington,19??,a,US
+Margie Harris,1930,a,US
+Havank,1904,1964,Netherlands
+Monika Hausammann,1974,a,Canada
+Mo Hayder,1962,2021,UK
+JM Hayes,19??,a,US
+Elizabeth Haynes,19??,a,UK
+Tim Heald,1944,2016,UK
+Peter Heck,1941,a,US
+Georgette Heyer,1902,1974,UK
+Carl Hiaasen,1953,a,US
+Keigo Higashino,1958,a,Japan
+George V Higgins,1939,1999,US
+Patricia Highsmith,1921,1995,Sweden
+Reginald Hill,1936,2012,UK
+Tony Hillerman,1925,2008,US
+John Buxton Hilton,1921,1986,UK
+Chester Himes,1909,1984,Spain
+Elisabeth Sanxay Holding,1889,1955,US
+Dorothy B Hughes,1904,1993,US
+Victoria Houston,19??,a,US
+Francis Iles,1893,1971,UK
+Arnaldur Indriðason,1961,a,Ic
+Michael Innes,1906,1994,UK
+Kōtarō Isaka,1971,a,Japan
+Ira Ishida,1960,a,Japan
+Shirley Jackson,1916,1965,US
+PD James,1920,2014,UK
+Peter James,1948,a,UK
+JA Jance,1944,a,US
+Quintin Jardine,1945,a,UK
+Marshall Jevons,1970,a,US
+He Jiahong,1953,a,Canada
+H R F Keating,1926,2011,UK
+Carolyn Keene,19??,19??,US
+Faye Kellerman,1952,a,US
+Jonathan Kellerman,1949,a,US
+Harry Kemelman,1908,1996,US
+Michael Kenyon,1931,2005,UK
+Simon Kernick,1967,a,UK
+Kim Young ha,1968,a,South Korea
+Laurie R King,1952,a,US
+Natsuo Kirino,1951,a,Japan
+Kenzo Kitakata,1947,a,Japan
+Kazuhiro Kiuchi,1960,a,Japan
+Andrew Klavan,1954,a,US
+Ronald Knox,1888,1957,UK
+William Kent Krueger,1950,a,US
+Natsuhiko Kyōgoku,1963,a,Japan
+Lori L Lake,1960,a,US
+Joe R Lansdale,1951,a,US
+Shulamit Lapid,1934,a,Israel
+Gaylord Larsen,1932,a,US
+Stieg Larsson,1954,2004,Sweden
+David Lassman,19??,a,UK
+Emma Lathen,1960,a,US
+Stephen Leather,1956,a,UK
+John le Carré,1931,2020,UK
+Vanessa Leggett,1968,a,US
+Dennis Lehane,1965,a,US
+Anthony Lejeune,1928,2018,UK
+Donna Leon,1942,a,Sweden
+Elmore Leonard,1925,2013,US
+Gaston Leroux,1868,1927,France
+Ira Levin,1929,2007,US
+Paul Levine,1948,a,US
+Ted Lewis,1940,1982,UK
+Laura Lippman,1959,a,US
+Steven Long,1944,a,US
+E C R Lorac,1894,1958,UK
+Gabrielle Lord,1946,a,australia
+Gayle Lynds,19??,a,US
+John D MacDonald,1916,1986,US
+Ross Macdonald,1915,1983,US
+Shane Maloney,1953,a,Australia
+Henning Mankell,1948,2015,Sweden
+Petros Markaris,1937,a,US
+John Marquand,1893,1960,US
+Ngaio Marsh,1895,1982,New Zealand
+Faith Martin,19??,a,UK
+William Marshall,1944,2003,Australia
+Jan Mårtenson,1933,a,Sweden
+Edward Marston,1944,a,UK
+Seichō Matsumoto,1909,1992,Japan
+Peter May,1951,a,UK
+Ed McBain,1926,2005,US
+James McClure,1939,2006,UK
+Val McDermid,1955,a,UK
+Dennis McDougal,1947,a,US
+Iain McDowall,19??,a,UK
+Michele McPhee,1970,a,US
+Clive Leo McNeir,19??,a,UK
+Lee Mellor,1982,a,UK
+Nicholas Meyer,1945,a,US
+Milton Scott Michel,1916,1992,US
+Margaret Millar,1915,1994,Canada
+Zygmunt Miłoszewski,1976,a,Poland
+Denise Mina,1966,a,UK
+Kanae Minato,1973,a,Japan
+Dreda Say Mitchell,1965,a,UK
+Gladys Mitchell,1901,1983,UK
+Miyuki Miyabe,1960,a,Japan
+Gwen Moffat,1924,a,UK
+Rick Mofina,19??,a,Canada
+Christopher G Moore,1952,a,Canada
+David Morrell,1943,a,Canada
+Mark Morris,1963,a,UK
+John Mortimer,1923,2009,UK
+Patricia Moyes,1923,2000,UK
+Marcia Muller,1944,a,US
+Clare Munnings,19??,a,US
+Margaret Murphy,1959,a,UK
+Susan Murphy Milano,19??,2012,US
+Magdalen Nabb,1947,2007,UK
+Fuminori Nakamura,1977,a,Japan
+Jo Nesbø,1960,a,Norway
+Beverley Nichols,1898,1983,UK
+Kyōtarō Nishimura,1930,2022,Japan
+Asa Nonami,1960,a,Japan
+Jamyang Norbu,1949,a,Tibet
+Rintarō Norizuki,1964,a,Japan
+Joyce Carol Oates,1938,a,US
+Rodica Ojog Brașoveanu,1939,2002,Romania
+Kidō Okamoto,1872,1939,Japan
+Celil Oker,1952,2019,Turkey
+Gō Ōsaka,1943,a,Japan
+Arimasa Ōsawa,1956,a,Japan
+Otsuichi乙一,1978,a,Japan
+Rodrigues Ottolengui,1861,1937,US
+Sara Paretsky,1947,a,US
+Edith Pargeter,1913,1995,UK
+Robert B Parker,1932,2010,US
+Surender Mohan Pathak,1940,a,India
+James Patterson,1947,a,US
+Hayford Peirce,1942,2020,US
+Don Pendleton,1927,1995,US
+Louise Penny,1958,a,Canada
+Anne Perry,1938,a,UK
+Ellis Peters,1913,1995,UK
+Mike Phillips,1941,a,UK
+Scott Phillips,1961,a,US
+Edgar Allan Poe,1909,1949,US
+Nicholas A Price,19??,a,US
+Bill Pronzini,1943,a,US
+Lisa Pulitzer,1962,a,US
+Ellery Queen,1929,a,US
+Melanie Raabe,1981,a,Germany
+Indra Soundar Rajan,1958,a,India
+Ian Rankin,1960,a,UK
+Clayton Rawson,1906,1971,US
+Satyajit Ray,1921,1992,India
+Kathy Reichs,1948,a,US
+Ruth Rendell,1930,2015,UK
+Osvaldo Reyes,1971,a,Panama
+Craig Rice,1908,1957,US
+Lynda Suzanne Robinson,1951,a,US
+Peter Robinson,1950,a,UK
+Elliott Roosevelt,1910,1990,US
+Karen Rose,19??,a,US
+Caitlin Rother,1962,a,Canada
+Hemendra Kumar Roy,1888,1963,India
+S J Rozan,1950,a,US
+Jane Rubino,19??,a,US
+Ann Rule,1931,2015,US
+Craig Russell,19??,a,UK
+James Sallis,1944,a,US
+C J Sansom,1952,a,UK
+Joh Sasaki,1950,a,Japan
+Robin Sax,1972,a,US
+Dorothy L Sayers,1893,1957,UK
+Sandra Scoppettone,1936,a,US
+Cathy Scott,1950,a,US
+Will Scott,1893,1964,UK
+Lisa Scottoline,1955,a,US
+Sharadindu Bandyopadhyay,1899,1970,India
+Sōji Shimada,1948,a,Japan
+John Silvester,19??,a,Australia
+Georges Simenon,1903,1989,Belgium
+Roger L Simon,1943,a,US
+Dorothy Simpson,1933,a,UK
+Elizabeth Sims,1957,a,US
+John Sladek,1937,2000,US
+Karin Slaughter,1971,a,US
+Aaron Smith,1976,a,US
+Alexander McCall Smith,1948,a,South Africa
+Anthony Neil Smith,19??,a,US
+Joan Smith,1953,a,UK
+Martin Cruz Smith,1942,a,US
+Teresa Solana,1962,a,Spain
+Mehmet Murat Somer,1959,a,Turkey
+Julia Spencer Fleming,1961,a,US
+Suzy Spencer,19??,a,US
+Mickey Spillane,1918,2006,US
+Nancy Springer,1948,a,US
+Rex Stout,1886,1975,US
+Linda Stratmann,1948,a,UK
+Cecil Street,1884,1964,Gibraltar
+Kalpana Swaminathan,1956,a,India
+Leonie Swann,1975,a,Germany
+Vikas Swarup,1960,a,India
+Mitzi Szereto,19??,a,UK
+Akimitsu Takagi,1920,1995,Japan
+Katsuhiko Takahashi,1947,a,Japan
+Kazuaki Takano,1964,a,Japan
+Tetsuo Takashima,1949,a,Japan
+Andrew Taylor,1951,a,UK
+Josephine Tey,1896,1952,UK
+Johan Theorin,1963,a,Sweden
+Paul and Mabel Thorneearly,19??,a,US
+Masako Togawa,1931,2016,Japan
+M J Trow,1949,a,UK
+Margaret Truman,1924,2008,US
+James Twining,1972,a,UK
+Ahmet Ümit,1960,a,Turkey
+Lisa Unger,1970,a,US
+Arthur Upfield,1890,1964,UK
+Andrew Vachss,1942,2021,US
+Edgar Wallace,1875,1932,UK
+Lew Wallace,1827,1905,US
+Minette Walters,1949,a,UK
+Wang Shuo,1958,a,Canada
+Sarah Ward,19??,a,UK
+Hillary Waugh,1920,2008,US
+Betty Webb,19??,a,US
+Charlie Wells,1923,2004,US
+Jeri Westerson,1960,a,US
+Donald E Westlake,1933,2008,US
+Patricia Wentworth,1877,1961,UK
+Ethel Lina White,1876,1944,UK
+Collin Wilcox,1924,1996,US
+Charles Willeford,1919,1998,US
+Leslie Wolfe,1967,a,US
+Cornell Woolrich,1903,1968,US
+Dornford Yates,1885,1960,UK
+Seishi Yokomizo,1902,1981,Japan
+Hideo Yokoyama,1957,a,Japan
+Shuichi Yoshida,1968,a,Japan
+Yumeno Kyūsaku,1889,1936,Japan
+Helen Zahavi,1966,a,UK
+Michael Bar Zohar,1938,a,Israel

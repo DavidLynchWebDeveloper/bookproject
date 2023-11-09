@@ -1,0 +1,67 @@
+<%- include("partials/header.ejs") %>
+
+<div class="formWrapper2">
+    <span class="smallyellow">Search &nbsp; </span>
+    <form class="edit" action="/unknown" method="post">
+    <input type="text" minlength="6" maxlength="40" name="writer" value="">    
+    <button class="wishlist" type="submit">Go</button>
+   </form> 
+</div>
+
+   <h2>Crime Fiction Writers <span class="smallyellow"> Click to get Listing</span></h2> 
+
+    <div class="row">
+
+      <div class="col">
+        <div class="containerbox">
+          <% for (i=0;i<70;i++) { %>
+            <a href="/getwriter/<%= items[i].writer %>"><%= items[i].writer %></a><br />    
+          <% } %>
+        </div>
+      </div>
+    
+      <div class="col">
+        <div class="containerbox">
+          <% for (i=70;i<140;i++) { %>
+            <a href="/getwriter/<%= items[i].writer %>"><%= items[i].writer %></a><br />     
+          <% } %>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="containerbox">
+          <% for (i=140;i<210;i++) { %>
+            <a href="/getwriter/<%= items[i].writer %>"><%= items[i].writer %></a><br />   
+          <% } %>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="containerbox">
+          <% for (i=210;i<280;i++) { %>
+            <a href="/getwriter/<%= items[i].writer %>"><%= items[i].writer %></a><br />   
+          <% } %>
+        </div>
+      </div>
+      
+      <div class="col">
+        <div class="containerbox">
+          <% for (i=280;i<350;i++) { %>
+            <a href="/getwriter/<%= items[i].writer %>"><%= items[i].writer %></a><br />     
+          <% } %>
+        </div>
+      </div>
+      
+      <div class="col">
+        <div class="containerbox">
+          <% for (i=350;i<399;i++) { %>
+            <a href="/getwriter/<%= items[i].writer %>"><%= items[i].writer %></a><br />    
+          <% } %>
+        </div>
+      </div>
+
+    </div>
+    
+    <!-- </div> -->
+
+<%- include("partials/footer.ejs") %>

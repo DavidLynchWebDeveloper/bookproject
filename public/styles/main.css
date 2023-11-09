@@ -1,0 +1,414 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("/images/bloodbg.gif"), url("/images/crimescenegrey.png") ;
+  background-repeat: no-repeat repeat;
+  background-position: center, top;
+  background-size: cover;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui,
+    helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+  color: white;
+  font-size: 1.25rem;
+}
+
+main {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.container {
+  margin: 0;
+  display: grid;
+  margin-top: 5px;
+  width: 100vh;
+  background-color: white;
+  border: 2px solid rgb(63, 133, 63);
+  border-radius: 25px;
+}
+
+.center-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.containerbox {
+  width: 200px;
+  text-align: left;
+  padding: 3px;
+  font-size: 14px;
+  font-family: arial, verdana, sans-serif;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 30px;
+  background-color: white;
+  opacity: 0.6;
+  border-radius: 20px;
+  border: 1px solid red;
+}
+
+.containerbox1 {
+  position: relative;
+  width:98%;
+  height: 100%;
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 13px;
+  font-family: arial, verdana, sans-serif;
+  font-weight: bold;
+  color: black;
+  margin: auto;
+  background-color: white;
+  opacity: 0.8;
+  border-radius: 20px;
+  border: 2px solid red;
+}
+
+.containerbox2 {
+  position: relative;
+  width:800px;
+  height: 100%;
+  text-align: left;
+  padding: 10px;
+  margin: 5px;
+}
+
+.header {
+  height: 125px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* border: 1px solid yellow;
+  border-radius: 20px;
+  padding: 5px; */
+}
+
+.formWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.formWrapper2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: #1f8bd3;
+}
+
+.markread {
+  border: 0px;
+  background-color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: darkgreen;
+  border-radius: 5px;
+  opacity: 0.7;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.markread:hover {
+  background-color: #04AA6D;
+  color: yellow;
+}
+
+
+.wishlist {
+  border: 0px;
+  background-color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: darkblue;
+  border-radius: 5px;
+  opacity: 0.7;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.wishlist:hover {
+  background-color: darkblue;
+  color: yellow;
+}
+
+.headerLeft {
+  position: absolute;
+  margin-left: 0%;
+  margin-top: 0%;
+  width: 20%;
+  height:130px;
+}
+
+.headerRight {
+  position: absolute;
+  margin-left: 20%;
+  width: 60%;
+  height:130px;
+}
+
+.headerEnd {
+  position: absolute;
+  margin-left: 80%;
+  margin-top: 0%;
+  width: 20%;
+  height:130px;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+  padding: 9px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  color: darkgreen;
+}
+
+.imgbox {
+  position: relative;
+  width: 200px;
+  height: 120px;
+}
+
+.headingtext {
+  color: #FFD733;
+}
+
+li {
+  text-align: left;
+  font-size: 12px;
+  padding-left: 0px;
+  margin-left: -10px;
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+img {
+  float: left;
+  padding: 5px;
+}
+
+.center {
+  text-align: center;
+}
+
+a {
+  color: black;
+  padding-left: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: yellow;
+}
+
+.smallyellow {
+  font-size: 14px;
+  color: yellow;
+}
+
+h1 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 1.8rem;
+}
+
+h2 {
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 1.2rem;
+}
+
+h3 {
+  font-size: 1rem;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 0.9rem;
+  color: black;
+}
+
+.floatright {
+  float: right;
+}
+
+span {
+  text-align: left;
+}
+
+.yellowtext {
+  color: yellow;
+}
+
+.menu {
+    position: absolute;
+    margin-top: 0;
+    display: block;
+    z-index:2; padding:0;
+    outline:0;
+    text-align:left;
+    padding-left: 10px;
+}
+
+/* style for the button */
+.menu:before {
+    content: "\2630 \a0 Menu"; 
+    color:yellow;
+    padding: 3px 3px;
+    background: #96305e;
+    background: -moz-linear-gradient(top, #222222 0%, #222222 10%, #222222 90%, #222222 100%);
+    background: -webkit-linear-gradient(top, #222222 0%, #222222 10%, #222222 90%, #222222 100%);
+    background: linear-gradient(to bottom,  #222222 0%,#222222 10%,#222222 90%,#222222 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96305e', endColorstr='#751749',GradientType=0 );
+}
+
+.menu:focus { pointer-events:none; }
+
+/* If :focus detected the dropdown menu is displayed by making it visible */
+.menu:focus .menu-dropdown { opacity:1; visibility:visible; }
+
+/* style for the dropdown box */
+.menu-dropdown {
+    right: 0px;
+    background-color: gray;
+    width: auto;
+    font-size: 14px;
+    margin:3px 0 0 0;
+    padding-left: 10px;
+    border-radius:20px;
+    border:1px yellow solid;
+    pointer-events: auto;
+    position: relative;
+    z-index: 1;
+    opacity: 0;
+    visibility: hidden;
+    transition: visibility 1s;
+    background: #1f8bd3;
+    background: -moz-linear-gradient(top, light gray 0%, gray 10%, gray 90%, gray 100%);
+    background: -webkit-linear-gradient(top,  gray 0%,gray 10%,gray 90%,gray 100%);
+    background: linear-gradient(to bottom,  gray 0%,gray 10%,gray 90%,gray 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f8bd3', endColorstr='#1b61b7',GradientType=0 );
+}
+
+/* style the links in the dropdown */
+.menu-dropdown a {
+    background:transparent;
+    border:none;
+    outline:0;
+    display:block;
+    color:white;
+    text-decoration:none;
+    width:150px;
+    padding:1px;
+}
+
+.http {
+ color: red;
+  font-style: italic;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type=select] {
+  width: 70px;
+  padding: 5px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+input[type=text] {
+  color: black;
+  width: 120px;
+  height: 25px;
+  padding: 5px;
+  border-radius: 4px;
+  resize: vertical;
+  background-color: white;
+}
+
+label {
+  padding: 2px 5px 5px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  width: 60px;
+  background-color: green;
+  color: yellow;
+  font-size: 14px;
+  padding: 4px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+  width: 60px;
+}
+
+.formcontainer {
+  border-radius: 5px;
+  background-color: #222222;
+  padding: 20px;
+}
+
+.col-25 {
+  float: left;
+  width: 33%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 66%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}

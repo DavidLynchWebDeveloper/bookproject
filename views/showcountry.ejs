@@ -1,0 +1,34 @@
+<%- include("partials/header.ejs") %>
+
+  <h2>Show Number of Crime Writers by Country</h2>
+
+    <div class="row">
+      <div class="col-sm-0 col-md-1 col-lg-4 col-xl-4"></div>
+      <div class="col-sm-12 col-md-8 col-lg-4 col-xl-4">
+        
+        <div class="containerbox1">
+
+          <table>
+          <tbody>
+            <tr>          
+              <td width="150px">Country:</td>
+              <td width="150px">Writers</td>
+            </tr> 
+          
+            <% for (var i=0;i<count;i++) { %>
+              <tr>
+                <td width="150px"><%= items[i].country %></td>
+                <td width="150px"><%= items[i].writer %></td>    
+              </tr>
+            <% } %>
+
+          </tbody>
+        </table>
+
+        </div>
+
+    </div>
+    <div class="col-sm-0 col-md-1 col-lg-4 col-xl-4"></div>
+  </div>
+
+<%- include("partials/footer.ejs") %>

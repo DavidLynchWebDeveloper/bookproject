@@ -1,0 +1,59 @@
+<%- include("partials/header.ejs") %>
+
+
+<% if (type === "read") { %>
+  <h2>Books I have Read</h2>
+<% } else { %>
+  <h2>Books I Wish to Read</h2>
+<% } %>
+
+    <div class="row">
+      
+      <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+        <div class="containerbox1">
+
+          <% if (error === "Sorry - Your item was not added to the database - try again") { %>
+            <h3>Sorry - Your item was not added to the database - try again</h3>
+          <% } %>
+          
+          <% if (error === "Sorry - There are no items to display") { %>
+            <h3>Sorry - There are no items to display</h3>
+          <% } else { %>
+              <table>
+                <tbody>
+                  <tr>          
+                    <td width="3%">No.</td>
+                    <td width="18%">Writer</td>
+                    <td width="32%">Title</td>
+                    <td width="10%">Key</td>
+                    <td width="3%">Edit</td>
+                    <td width="3%">Del</td>
+                    <td width="31%">Notes</td>
+                  </tr> 
+
+            <% for (var i=0;i<items.length;i++) { %>
+              
+                  <tr>
+                    <td width="3%"><%= i+1 %></td>
+                    <td width="18%"><%= items[i].writer %></td>
+                    <td width="32%"><%= items[i].title %></td>
+                    <td width="10%"><%= items[i].wkey %></td>
+                    <td width="3%"><a href="/edit/<%= items[i].id %>&<%= items[i].type %>"><img src="/images/edit.gif" alt="delete" width="23px"></a></td>
+                    <td width="3%"><a href="/delete/<%= items[i].id %>&<%= items[i].type %>"><img src="/images/deleteicon.gif" alt="delete" width="23px"></a></td>
+                    <td width="31%"><%= items[i].notes %></td>
+                   
+                  </tr>
+
+            <% } %>
+          
+            </tbody>
+          </table>
+
+        <% } %>
+               
+
+        </div>
+      </div>
+    </div>
+
+<%- include("partials/footer.ejs") %>

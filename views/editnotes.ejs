@@ -1,0 +1,29 @@
+<%- include("partials/header.ejs") %>
+
+  <h2>Edit Notes for</h2>
+
+    <div class="row">
+      <div class="col-sm-0 col-md-1 col-lg-3 col-xl-3"></div>
+      <div class="col-sm-12 col-md-10 col-lg-6 col-xl-6">
+        
+        <div class="containerbox1">
+          ID: <%= items[0].id %><br />
+          Writer: <%= items[0].writer %><br />
+          Title: <%= items[0].title %><br />
+          Type: <%= items[0].type %><br />
+
+          <form action="/doedit" method="post">
+            <input type="hidden" name="id" value="<%= items[0].id %>">
+            <input type="hidden" name="type" value="<%= items[0].type %>">
+            <label for="notes">Notes:</label><br>
+            <!-- <input type="text" id="notes" name="notes" value="<%= items[0].notes %>"><br> -->
+            <textarea name="notes"  rows="3" cols="35"><%= items[0].notes %></textarea><br />
+            <input type="submit" value="Submit">
+          </form>
+      </div>
+
+    </div>
+    <div class="col-sm-0 col-md-1 col-lg-3 col-xl-3"></div>
+  </div>
+
+<%- include("partials/footer.ejs") %>

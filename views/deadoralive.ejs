@@ -1,0 +1,30 @@
+<%- include("partials/header.ejs") %>
+
+  <h2>Show Number of Dead and Alive</h2>
+
+    <div class="row">
+      <div class="col-sm-0 col-md-1 col-lg-4 col-xl-4"></div>
+      <div class="col-sm-12 col-md-8 col-lg-4 col-xl-4">
+        
+        <div class="containerbox1">
+
+          <table>
+          <tbody>
+            <tr>          
+              <td width="150px">Writers Alive</td>
+              <td width="150px">Writers Dead</td>
+            </tr>
+            <tr>
+              <td width="150px"><%= alive %></td>
+              <td width="150px"><%= dead %></td>
+            </tr> 
+          </tbody>
+        </table>
+
+        </div>
+
+    </div>
+    <div class="col-sm-0 col-md-1 col-lg-4 col-xl-4"></div>
+  </div>
+
+<%- include("partials/footer.ejs") %>
